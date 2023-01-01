@@ -1,1 +1,2 @@
-# abed-calamares-config-xmonad
+# ArcoLinuxB-Xmonad Calamares configuration
+
